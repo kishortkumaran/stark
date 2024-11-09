@@ -1,5 +1,3 @@
 This is just a file edited on server
-s fadfas
-B
-B
+This is just a file edited on github
 Now it is edited on github
