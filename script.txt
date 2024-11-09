@@ -1,3 +1,4 @@
 This is just a file edited on server
-s 
+This is just a file edited on github
+>>>>>>> 048ab62d71485a18675bafdc9578ead765e8a066
 Now it is edited on github

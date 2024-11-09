@@ -1,6 +1,7 @@
 
-#edited on github
-#edited on server
+
+#edited file
+>>>>>>> 048ab62d71485a18675bafdc9578ead765e8a066
 #!/bin/bash
 
 # Date and time when the script is run
