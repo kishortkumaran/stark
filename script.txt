@@ -1,1 +1,2 @@
 This is just a file edited on server
+Now it is edited on github
