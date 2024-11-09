@@ -1,3 +1,6 @@
+
+
+#edited on erver
 #!/bin/bash
 
 # Date and time when the script is run
